@@ -1,5 +1,5 @@
 # hello-world
-My very first repo
+My very first repo.
 Hello!
 Now are you?
 Where are you from.
